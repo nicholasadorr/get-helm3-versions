@@ -1,1 +1,1 @@
-# get-helm3-versions
+# helm-v3andup
